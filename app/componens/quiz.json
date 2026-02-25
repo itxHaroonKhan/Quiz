@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1. What does HTML stand for?",
+    "options": [
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyper Text Markup Language",
+      "Hyper Transfer Making Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "2. What is React?",
+    "options": [
+      "A CSS Framework",
+      "A JavaScript Library",
+      "A Programming Language",
+      "A Database"
+    ],
+    "answer": "A JavaScript Library"
+  },
+  {
+    "question": "3. What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Cascading Style Sheets",
+      "Colorful Style Syntax"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "4. Which tag is used to insert an image in HTML?",
+    "options": [
+      "<img>",
+      "<image>",
+      "<src>",
+      "<picture>"
+    ],
+    "answer": "<img>"
+  },
+  {
+    "question": "5. What is JSX in React?",
+    "options": [
+      "A templating engine",
+      "A syntax extension for JavaScript",
+      "A database query language",
+      "A CSS preprocessor"
+    ],
+    "answer": "A syntax extension for JavaScript"
+  }
+]
